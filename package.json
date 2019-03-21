@@ -1,0 +1,23 @@
+{
+  "name": "hbg-eslint",
+  "version": "0.1.0",
+  "description": "ESlint configuration for Helsingborg Stad JS projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helsingborg-stad/hbg-eslint.git"
+  },
+  "keywords": [
+    "eslint",
+    "js"
+  ],
+  "author": "Nikolas Ramstedt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/helsingborg-stad/hbg-eslint/issues"
+  },
+  "homepage": "https://github.com/helsingborg-stad/hbg-eslint#readme"
+}
